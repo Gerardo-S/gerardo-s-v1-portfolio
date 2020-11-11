@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles/Nav.css"],"names":[],"mappings":"AAAA,QACI,YAAa,CACb,cAGJ,CAEA,WACI,aAAc,CACd,eAEJ","file":"main.8a6058a8.chunk.css","sourcesContent":[".navbar {\r\n    padding: .1em;\r\n    font-size: 18px;\r\n    \r\n    \r\n}\r\n\r\n.navbar h1 {\r\n    font-size: 2em;\r\n    font-weight: bold;\r\n\r\n}"]}

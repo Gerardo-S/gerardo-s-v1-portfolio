@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+# React Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description 
 
-## Available Scripts
+My personalized portfolio developed using React. I enjoy the experience of creating web applications and having my ideas come to fruition. Listed below are a collection of web applications I have created and helped contribute to with fellow developers. I have used/implemented technologies such as those listed below.
+* JavaScript
+* Bootstrap
+* DOM API's
+* AJAX
+* MySQL
+* MongoDB
+* Node.js
 
-In the project directory, you can run:
+## Project List
 
-### `npm start`
+Links to the projects listed below can be found in the "Portfolio" section. Each project is listed with either an image or gif as shown in the gif below. 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Portfolio 
+<img src="src\utils\images\Gerardo's Portfolio.gif" alt="Portfolio">
+<br>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+#### Table 1: List of Projects with Brief Description and Technologies used.    
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+| Projects   | Description | Technologies Used |
+| -----------|-------------|------------------ |
+|Game Kiwi  | Allows users to create accounts and browse a large selection of video games. Members have the ability to save games to their top-ten list and share with other users.| Express, Express-Handlebars, Passport, and Sequelize    |
+| Recipe Roulette  | Expand your recipe collection. This app offers users the ability to search for new recipes and cuisines.| HTML, CSS, 2 API's  |
+| Fitness Tracker  | An app that lets users track their workouts.| Mongoose, and Express     |
+|  Devour That Burger  | Users inputs names of their favorite burgers. Each burger after submission is listed with a devour button which users click to devour burger.| MySQL, Node, Express, Handlebars, ORM      |
+| Harry Potter Directory  | Application displays a list of harry potter characters upon loading. App allows users to search and filter for characters.| Create-React-App     |
+| ReadMe Generator  | Allows users to create a ReadMe file through a series of questions from the command line. | Inquirer, Node.js   |
+| Track That Budget  | Functional budget tracker with offline accessability.| IndexedDb, Service-Worker, Progressive Web App     |
+| 5-Day Forecast  | Display a live five day forecast from city of choice.| HTML, CSS, OpenWeather API, Bootstrap    |
+| Team Generator  | I app that generates an HTML webpage displaying a Team member roster. | Node.js, Inquirer, Jest      |
+| Random Password Generator  | Generates passwords based on user criteria.| HTML, CSS       |

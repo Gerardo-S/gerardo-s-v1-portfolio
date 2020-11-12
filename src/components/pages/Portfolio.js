@@ -6,6 +6,7 @@ import RecipeRoulette from "../../utils/images/Portfolio/RecipeRoulette.PNG";
 import WeatherDashboard from "../../utils/images/Portfolio/WeatherDashboard.PNG";
 import HarryPotterDirectory from "../../utils/images/Portfolio/HarryPotterDirectory.gif";
 import TrackThatBudget from "../../utils/images/Portfolio/TrackThatBudget.gif";
+import FitnessTracker from "../../utils/images/Portfolio/FitnessTracker.gif";
 function Portfolio(){
     return (
        
@@ -54,8 +55,8 @@ function Portfolio(){
                         </div>
 
                         <div className="col-md-4 p-1">
-                            <a href="https://gerardo-s.github.io/password-generator/" target="_blank">
-                                <img src={GeneratedPassword} className="img-fluid img-thumbnail" style={{height: 360, objectFit: 'contain'}} alt="Password Generator" />Password Generator
+                            <a href="https://fitness-on-point.herokuapp.com/" target="_blank">
+                                <img src={FitnessTracker} className="img-fluid img-thumbnail" style={{height: 360, objectFit: 'contain'}} alt="placeholder" />Fitness Tracker 
                             </a>
                         </div>
                     </div>
@@ -68,8 +69,8 @@ function Portfolio(){
                         </div>
 
                         <div className="col-md-4 p-1">
-                            <a href="https://placeholder.com">
-                                <img src="http://via.placeholder.com/350" className="img-fluid img-thumbnail" alt="placeholder" />
+                            <a href="https://gerardo-s.github.io/password-generator/" target="_blank">
+                                <img src={GeneratedPassword} className="img-fluid img-thumbnail" style={{height: 360, objectFit: 'contain'}} alt="Password Generator" />Password Generator
                             </a>
                         </div>
 

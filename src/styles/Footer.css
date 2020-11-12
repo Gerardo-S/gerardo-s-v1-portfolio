@@ -1,0 +1,27 @@
+.iconPosition{
+
+    font-size: 25px;
+
+}
+.fa-github {
+   
+    color: white;
+  }
+
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+
+  .fa-stack-overflow {
+    color:orange;
+  }
+
+  footer {
+    position: fixed;
+    left:0;
+    bottom:0;
+    height: 2em;
+    width: 100%;
+    text-align: center;
+}

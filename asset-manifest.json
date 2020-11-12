@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.8145e98b.chunk.css",
-    "main.js": "/static/js/main.36ac3b10.chunk.js",
-    "main.js.map": "/static/js/main.36ac3b10.chunk.js.map",
+    "main.js": "/static/js/main.48028d64.chunk.js",
+    "main.js.map": "/static/js/main.48028d64.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.67d3a979.js",
     "runtime-main.js.map": "/static/js/runtime-main.67d3a979.js.map",
     "static/css/2.43b2b750.chunk.css": "/static/css/2.43b2b750.chunk.css",
@@ -13,9 +13,14 @@
     "static/css/main.8145e98b.chunk.css.map": "/static/css/main.8145e98b.chunk.css.map",
     "static/js/2.e481a29b.chunk.js.LICENSE.txt": "/static/js/2.e481a29b.chunk.js.LICENSE.txt",
     "static/media/DevourThatBurger.8a9cd0e6.gif": "/static/media/DevourThatBurger.8a9cd0e6.gif",
+    "static/media/FitnessTracker.d5054179.gif": "/static/media/FitnessTracker.d5054179.gif",
     "static/media/GameKiwi.78762253.PNG": "/static/media/GameKiwi.78762253.PNG",
     "static/media/GeneratedPassword.438df57d.PNG": "/static/media/GeneratedPassword.438df57d.PNG",
+    "static/media/GeneratedTeam.f2af92d1.PNG": "/static/media/GeneratedTeam.f2af92d1.PNG",
+    "static/media/HarryPotterDirectory.7d81175f.gif": "/static/media/HarryPotterDirectory.7d81175f.gif",
+    "static/media/ReadMeGenerator.ce35ff02.gif": "/static/media/ReadMeGenerator.ce35ff02.gif",
     "static/media/RecipeRoulette.5fa5ecc1.PNG": "/static/media/RecipeRoulette.5fa5ecc1.PNG",
+    "static/media/TrackThatBudget.cd98b1e5.gif": "/static/media/TrackThatBudget.cd98b1e5.gif",
     "static/media/WeatherDashboard.38b1681e.PNG": "/static/media/WeatherDashboard.38b1681e.PNG",
     "static/media/profilePic.419668fe.jpg": "/static/media/profilePic.419668fe.jpg"
   },
@@ -24,6 +29,6 @@
     "static/css/2.43b2b750.chunk.css",
     "static/js/2.e481a29b.chunk.js",
     "static/css/main.8145e98b.chunk.css",
-    "static/js/main.36ac3b10.chunk.js"
+    "static/js/main.48028d64.chunk.js"
   ]
 }

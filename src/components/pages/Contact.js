@@ -4,7 +4,6 @@ function Contact() {
     return (
         <div className="container">
             <div className="row pt-2"><br />
-
                 <div Class="col-md-3 border-bottom -info">
                     <h1>Contact</h1>
                 </div>

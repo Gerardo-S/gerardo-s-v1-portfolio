@@ -12,7 +12,7 @@ function About() {
 
             <main className="row justify-content-center pl-5 pt-4 backgroundColor">
                 <div className="col-md-3">
-                    <img src={profilePic} alt="Gerardo's Profile Picture"
+                    <img src={profilePic} alt="Gerardo's Profile"
                         className="img-fluid img-thumbnail" width="250" height="250" />
                     <p>Email: gerardoa.solis@yahoo.com
                     Phone# (562)391-6593<br />

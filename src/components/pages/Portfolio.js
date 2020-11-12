@@ -92,7 +92,7 @@ function Portfolio() {
                             </a>
                         </div>
 
-                        <div className="col-md-4 p-1">
+                        {/* <div className="col-md-4 p-1">
                             <a href="https://placeholder.com">
                                 <img src="http://via.placeholder.com/350" className="img-fluid img-thumbnail" alt="placeholder" />
                             </a>
@@ -102,7 +102,7 @@ function Portfolio() {
                             <a href="https://placeholder.com">
                                 <img src="http://via.placeholder.com/350" className="img-fluid img-thumbnail" alt="placeholder" />
                             </a>
-                        </div>
+                        </div> */}
 
                     </div>
                     <br />

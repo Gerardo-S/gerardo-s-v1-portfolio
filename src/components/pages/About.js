@@ -34,9 +34,14 @@ function About() {
                         conducted metallurgical lab work, and prepared documentation for auditing organizations to attain
                         accreditation.<br />
                         <br />
-                        I currently live in San Diego CA, where I am furthering my education by enhancing my technical
-                        knowledge in web development. I aspire to be an entrepreneur using web development to materialize my
+                        I currently reside in San Diego CA, as a practicing Web Developer. I have a passion for materializing web app's from conception, to design, and functionality. I aspire to be an entrepreneur using web development to materialize my
                         project ideas. You can find me outdoors hiking or playing a few games of pickup basketball.
+
+
+
+                        {/* I currently live in San Diego CA, as a practicing Web Developer where I am furthering my education by enhancing my technical
+                        knowledge in web development. I aspire to be an entrepreneur using web development to materialize my
+                        project ideas. You can find me outdoors hiking or playing a few games of pickup basketball. */}
 
                     </p>
                 </section>

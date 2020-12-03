@@ -10,8 +10,8 @@ function App() {
   return (
     <Router>
       <div className="bg-light">
-      <Route exact path ="/">
-          <Redirect to="/about"/>
+        <Route exact path="/">
+          <Redirect to="/about" />
         </Route>
         <Nav />
         <Route exact path="/contact">
@@ -20,7 +20,7 @@ function App() {
         <Route exact path="/portfolio">
           <Portfolio />
         </Route>
-        <Route exact path ="/about">
+        <Route exact path="/about">
           <About />
         </Route>
         <Footer />

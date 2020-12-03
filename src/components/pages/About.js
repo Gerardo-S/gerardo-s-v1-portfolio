@@ -17,7 +17,7 @@ function About() {
                     <p>Email: gerardoa.solis@yahoo.com
                     Phone# (562)391-6593<br />
                     Resume: <a className="fa fa-file-pdf-o" style={{ fontSize: 20, color: "red" }}
-                            href="https://drive.google.com/file/d/1i4HDeLc2QgCa7g1_1893q4Pz6PSRET7j/view?usp=sharing" target="_blank"></a>
+                            href="https://drive.google.com/file/d/1i4HDeLc2QgCa7g1_1893q4Pz6PSRET7j/view?usp=sharing"  rel="noreferrer" target="_blank">  </a>
                     </p>
 
                 </div>

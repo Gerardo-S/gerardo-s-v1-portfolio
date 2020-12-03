@@ -35,7 +35,7 @@ function Contact() {
 
             <main>
                 <h3>Email:</h3>
-                <p>gerardon.solis@yahoo.com</p>
+                <p>gerardon.solis@gmail.com</p>
                 <h3>Phone#:</h3>
                 <p>(562)-391-6593</p>
                 <p>*Please leave a voicemail</p>

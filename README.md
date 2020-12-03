@@ -34,3 +34,8 @@ Links to the projects listed below can be found in the "Portfolio" section. Each
 | 5-Day Forecast  | Display a live five day forecast from city of choice.| HTML, CSS, OpenWeather API, Bootstrap    |
 | Team Generator  | I app that generates an HTML webpage displaying a Team member roster. | Node.js, Inquirer, Jest      |
 | Random Password Generator  | Generates passwords based on user criteria.| HTML, CSS       |
+
+
+###### Links
+<a href="https://github.com/Gerardo-S/gerardo-s.github.io">View Repo</a> <br>
+<a href="https://gerardo-s.github.io/">Deployed Portfolio</a>

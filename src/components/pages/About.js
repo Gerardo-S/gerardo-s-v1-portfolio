@@ -14,10 +14,12 @@ function About() {
                 <div className="col-md-3">
                     <img src={profilePic} alt="Gerardo's Profile"
                         className="img-fluid img-thumbnail" width="250" height="250" />
-                    <p>Email: gerardoa.solis@yahoo.com
+                    <p>
+                    Email: gerardoa.solis@yahoo.com
                     Phone# (562)391-6593<br />
                     Resume: <a className="fa fa-file-pdf-o" style={{ fontSize: 20, color: "red" }}
-                            href="https://drive.google.com/file/d/1i4HDeLc2QgCa7g1_1893q4Pz6PSRET7j/view?usp=sharing"  rel="noreferrer" target="_blank">  </a>
+                            href="https://docs.google.com/document/d/1WOD1jS9CXe35ARm446Lg0oUr0VoTJUCnNzfs28HBF-U/edit?usp=sharing"  rel="noreferrer" target="_blank">  </a><br/>
+                    Technical Skills: JavaScript, Node, React 
                     </p>
 
                 </div>

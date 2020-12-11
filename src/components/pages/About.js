@@ -19,8 +19,28 @@ function About() {
                     Phone# (562)391-6593<br />
                     Resume: <a className="fa fa-file-pdf-o" style={{ fontSize: 20, color: "red" }}
                             href="https://docs.google.com/document/d/1WOD1jS9CXe35ARm446Lg0oUr0VoTJUCnNzfs28HBF-U/edit?usp=sharing"  rel="noreferrer" target="_blank">  </a><br/>
-                    Technical Skills: JavaScript, Node, React 
                     </p>
+                    Technical Skills: 
+                    <ul>
+                        <li>
+                            JavaScript
+                        </li>
+                        <li>
+                            Node
+                        </li>
+                        <li>
+                            React
+                        </li>
+                        <li>
+                            MongoDB
+                        </li>
+                        <li>
+                            MySQL
+                        </li>
+                        <li>
+                            Express
+                        </li>
+                    </ul>
 
                 </div>
                 <section className="col-md-6">
@@ -38,12 +58,6 @@ function About() {
                         <br />
                         I currently reside in San Diego CA, as a practicing Web Developer. I have a passion for materializing web app's from conception, to design, and functionality. I aspire to be an entrepreneur using web development to materialize my
                         project ideas. You can find me outdoors hiking or playing a few games of pickup basketball.
-
-
-
-                        {/* I currently live in San Diego CA, as a practicing Web Developer where I am furthering my education by enhancing my technical
-                        knowledge in web development. I aspire to be an entrepreneur using web development to materialize my
-                        project ideas. You can find me outdoors hiking or playing a few games of pickup basketball. */}
 
                     </p>
                 </section>

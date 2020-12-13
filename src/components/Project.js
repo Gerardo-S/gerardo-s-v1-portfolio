@@ -1,12 +1,27 @@
 import React from "react";
 // Work in progress, I feel it would be best to create a json file with listed properties of my projects to make this work as intended. I will revisit.
-function AddProject(props) {
+function Project(props) {
+    const { projectImg, imageAlt, projectTitle, projectDescription, imgLink, repoLink } = props;
     return (
-        <div className="col-md-4 p-1">
-            <a href={props.path}>
-                <img src={props.name} className="img-fluid img-thumbnail" style={{ height: 360, objectFit: 'contain' }} alt={props.name} />{props.title}
-            </a>
-        </div>
+        <div className="col mb-4 ">
+            <div className="card h-100">
+                <a href={imgLink} rel="noreferrer" target="_blank">
+                    <img src={projectImg} style={{ height: 180, objectFit: "cover" }} className="card-img-top border-bottom border-info border-4" alt={imageAlt} />
 
+                </a>
+                <div className="card-body">
+                    <h5 className="card-title">{projectTitle}</h5>
+                    <p className="card-text">{projectDescription}</p>
+                </div>
+                <div className="card-footer" style={{
+                    
+                   backgroundColor: "#004242"
+                }}>
+
+                    <small className="text-mute"><a  className="text-reset"  href={repoLink} rel="noreferrer" target="_blank"><p style={{color:"whiteSmoke"}}>View Repo</p></a></small>
+                </div>
+            </div>
+        </div>
     )
-}
+};
+export default Project

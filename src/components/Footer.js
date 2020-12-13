@@ -3,7 +3,7 @@ import "../styles/Footer.css"
 function Portfolio() {
     return (
         <div className="row ">
-            <footer className="bg-dark fixed-bottom col-lg-12 iconPosition">
+            <footer className="bg-dark fixed-bottom col-lg-12 iconPosition ">
 
                 <a href="https://github.com/" className="active text-light fa fa-github largeFont"  rel="noreferrer" target="_blank"> <span>
                     |</span></a> <span></span>

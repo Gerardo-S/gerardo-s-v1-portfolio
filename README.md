@@ -32,7 +32,7 @@ Links to the projects listed below can be found in the "Portfolio" section. Each
 | ReadMe Generator  | Allows users to create a ReadMe file through a series of questions from the command line. | Inquirer, Node.js   |
 | Track That Budget  | Functional budget tracker with offline accessability.| IndexedDb, Service-Worker, Progressive Web App     |
 | 5-Day Forecast  | Display a live five day forecast from city of choice.| HTML, CSS, OpenWeather API, Bootstrap    |
-| Team Generator  | I app that generates an HTML webpage displaying a Team member roster. | Node.js, Inquirer, Jest      |
+| Team Generator  | An app that generates an HTML webpage displaying a Team member roster. | Node.js, Inquirer, Jest      |
 | Random Password Generator  | Generates passwords based on user criteria.| HTML, CSS       |
 
 

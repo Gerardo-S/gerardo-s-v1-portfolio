@@ -14,9 +14,6 @@ function App() {
 
           <Nav />
           <Switch>
-          <Route path="*">
-            <About />
-          </Route>
             <Route exact path="/">
               <About/>
             </Route>
@@ -29,6 +26,9 @@ function App() {
             <Route  path="/about">
               <About />
             </Route>
+          <Route path="*">
+            <About />
+          </Route>
           </Switch>
           <Footer />
       </div>

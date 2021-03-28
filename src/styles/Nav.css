@@ -1,11 +1,11 @@
-.navbar {
+.text {
     padding: .1em;
     font-size: 18px;
     
     
 }
 
-.navbar h1 {
+.navbar-brand{
     font-size: 2em;
     font-weight: bold;
 

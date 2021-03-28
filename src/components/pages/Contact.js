@@ -26,14 +26,14 @@ function Contact() {
     // }
     
     return (
-        <div className="container">
+        <div className="container ">
             <div className="row pt-2"><br />
                 <div className="col-md-3 border-bottom -info">
                     <h1>Contact</h1>
                 </div>
             </div>
 
-            <main>
+            <main className="contact">
                 <h3>Email:</h3>
                 <p>gerardon.solis@gmail.com</p>
                 <h3>Phone#:</h3>

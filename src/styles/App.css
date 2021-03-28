@@ -1,6 +1,15 @@
 main {
     background-color: whitesmoke;
+    /* height: 50em; */
+    
+    
+}
+
+.contact {
     height: 50em;
-    
-    
+}
+
+.about {
+    height: 40em;
+    margin-bottom: 5em;
 }

@@ -39,5 +39,5 @@ Links to the projects listed below can be found in the "Portfolio" section. Each
 
 ###### Links
 
-<a href="https://github.com/Gerardo-S/v1">View Repo</a> <br>
-<a href="https://gerardo-s.github.io/v1/">Deployed Portfolio</a>
+<a href="https://github.com/Gerardo-S/gerardo-s.github.io">View Repo</a> <br>
+<a href="https://gerardo-s.github.io/">Deployed Portfolio</a>
